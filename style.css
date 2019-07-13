@@ -29,7 +29,6 @@ a {hover color:#ff4057; font-size:30px;text-decoration: none; font-family: 'Sati
          background-position: center;
          padding: 100px;
          text-align: center;
-
          }
          
 .places {display:flex; justify-content: space-around;}
@@ -42,10 +41,12 @@ text-align: center;
 padding:20px 20px;
 margin:7px; }
 
- 
-h3, h4 {font-family: 'Montserrat', sans-serif;}
 
-h2 { font-size: 30px; text-align: center; font-family: 'Satisfy', cursive; }
+/* h3, h4 {font-family: 'Montserrat', sans-serif;} */
+
+h3 {font-size: 30px; text-align: center; font-family: 'Satisfy', cursive; color: #60204b;}
+
+h2 { font-size: 30px; text-align: center; font-family: 'Satisfy', cursive; color: #60204b;}
 
 .container p {font-size: 35px; text-align:center;
       font-family: 'Poppins', sans-serif;
