@@ -4,11 +4,14 @@ body
 	 background-color: #e4c666;
 }
 
-p{ color:#9E3C00; font-size: 40px;}
+p{ color:#9E3C00; font-size: 40px; 
+font-family: 'Satisfy', cursive;}
+
 h1 {font-size: 60px;
 	color:#0c084c;
+font-family: 'Satisfy', cursive;
 }
-a {hover color:#ff4057; font-size:30px;text-decoration: none;}
+a {hover color:#ff4057; font-size:30px;text-decoration: none; font-family: 'Satisfy', cursive;}
 
 .btn-red {
 	padding: 20px, 35px;
